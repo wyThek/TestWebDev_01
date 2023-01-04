@@ -1,0 +1,18 @@
+:root { 
+  --black: #000000;
+  --fresh-air: #acdaff;
+  --white: #ffffff;
+ 
+  --font-size-l: 96px;
+  --font-size-m: 60px;
+ 
+  --font-family-pacifico: "Pacifico", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-normal-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

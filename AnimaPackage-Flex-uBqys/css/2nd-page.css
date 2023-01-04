@@ -1,0 +1,44 @@
+/* screen - 2nd-page */
+
+.x2nd-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1728px;
+}
+
+.x2nd-page .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/s--27197445-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 823px;
+  height: 1117px;
+  min-width: 1728px;
+  padding: 30px 98px;
+}
+
+.x2nd-page .title {
+  color: #fcf9f9;
+  font-family: var(--font-family-pacifico);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 156px;
+  width: 304px;
+}
+
+.x2nd-page .join-btn {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--fresh-air);
+  border-radius: 51px;
+  display: flex;
+  gap: 10px;
+  margin-top: 51.0px;
+  padding: 28px 41px;
+  width: fit-content;
+}
